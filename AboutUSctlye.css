@@ -265,7 +265,7 @@ i {
 .blog-slider__button {
   display: inline-flex;
   background-image: linear-gradient(16deg, #cf7610 15%, #e91729de 74%);
-  padding: 5px 5px;
+  padding: 5px 40px;
   border-radius: 30px;
   border: none;
   color: #fff;
