@@ -343,7 +343,7 @@ i {
 
 .blog-slider__pagination .swiper-pagination-bullet-active {
   opacity: 1;
-  background: #0c0170;
+  background: #d73d00;
   height: 30px;
   box-shadow: 0px 0px 20px rgba(56, 69, 252, 0.3);
 }
